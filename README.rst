@@ -41,8 +41,8 @@ Install
 
 .. |Build Status| image:: https://travis-ci.org/maxhutch/slict.png
    :target: https://travis-ci.org/maxhutch/slict
-.. |Version Status| image:: https://pypip.in/v/slict/badge.png
+.. |Version Status| image:: https://img.shields.io/pypi/v/slict.svg
    :target: https://pypi.python.org/pypi/slict/
-.. |Downloads| image:: https://pypip.in/d/slict/badge.png
+.. |Downloads| image:: https://img.shields.io/pypi/dm/slict.svg
    :target: https://pypi.python.org/pypi/slict/
 .. _chest : https://github.com/ContinuumIO/chest
